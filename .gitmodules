@@ -1,0 +1,3 @@
+[submodule "abacus-scripts"]
+	path = abacus-scripts
+	url = https://github.com/alex-magana/abacus-scripts.git
